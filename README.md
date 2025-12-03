@@ -9,7 +9,7 @@ This is the website after making some edits
 Renamed the character to Lola as seen in 1
 
 2nd and 3rd photo Edit:
-Edit as a HTML to add another <h1></h1> title to the website.
+Edit as a HTML to add another h1 title to the website.
 
 4th photo Edit:
 Duplicated the name Lola to display 2 times.
